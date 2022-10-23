@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-📫 Contact me on Discord: Yukari#4617
-
 😄 Pronouns: he/him
+
+📫 Contact me on Discord: Yukari#4617
 
 ⚡ Fun fact: I'm not active on Github.com
 

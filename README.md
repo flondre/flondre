@@ -1,18 +1,17 @@
-### Hi there 👋
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/FrostOnAcid/FrostOnAcid/blob/main/snowman-joypixels.gif" width="70px"></h2>
 
-😄 Pronouns: he/him/his
+</div>
 
-📫 Contact me on Discord: Yukari#4617
+<div align="center" width="50">
 
-⚡ Fun fact: I'm not active on Github.com
-<!--
-**leyukari/leyukari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord Presence](https://lanyard.cnrad.dev/api/630323429836587040)](https://discord.com/users/630323429836587040)
 
-Here are some ideas to get you started:
+<div align="center" width="50">
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
--->
+
+
+
+

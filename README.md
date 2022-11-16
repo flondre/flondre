@@ -13,11 +13,11 @@
 
 
 
-😄 Pronouns: he/him/his
+    😄 Pronouns: he/him/his
 
-📫 Contact me on Discord: Yukari#4617
+    📫 Contact me on Discord: Yukari#4617
 
-⚡ Fun fact: I'm not active on Github.com
+    ⚡ Fun fact: I'm not active on Github.com
 <!--
 **leyukari/leyukari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

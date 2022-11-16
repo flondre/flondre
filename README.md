@@ -3,11 +3,11 @@
 
 </div>
 
-<div align="center" width="10">
+<div align="center" width="60">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/630323429836587040)](https://discord.com/users/630323429836587040)
 
-<div align="center" width="8">
+<div align="center" width="60">
 
 
 
